@@ -1,12 +1,22 @@
-# prefix,country_code,region_code,city,postal
-161.195.135.0/24,KR,,,
-161.195.138.0/24,GB,,,
-161.195.139.0/24,ES,,,
-161.195.140.0/24,MX,,,
-161.195.141.0/24,DE,,,
-161.195.142.0/24,CL,,,
-161.195.143.0/24,BE,,,
-161.195.144.0/24,CZ,,,
-161.195.146.0/24,IE,,,
-161.195.155.0/24,US,,,
-161.195.96.0/22,NL,,,
+# prefix,country_code,region_code,city
+161.195.135.0/24,KR,KR-11,Seoul
+161.195.138.0/24,GB,GB-LDS,Leeds
+161.195.139.0/24,ES,ES-B,Barcelona
+161.195.140.0/24,MX,,
+161.195.141.0/24,DE,DE-HE,Neu-Isenburg
+161.195.142.0/24,CL,CL-RM*,Santiago
+161.195.143.0/24,BE,BE-VBR,Machelen
+161.195.144.0/24,CZ,CZ-10,Prague
+161.195.146.0/24,IE,IE-D,Dublin
+161.195.155.0/24,US,,
+161.195.96.0/22,NL,,
+161.195.065.0/24,US,US-PA,Philadelphia
+161.195.066.0/24,US,US-PA,Philadelphia
+161.195.068.0/24,US,US-PA,Philadelphia
+161.195.070.0/24,US,US-PA,Philadelphia
+161.195.157.0/24,US,US-PA,Philadelphia
+161.195.176.0/24,US,US-PA,Philadelphia
+161.195.177.0/24,US,US-PA,Philadelphia
+161.195.196.0/22,US,US-AZ,Scottsdale
+161.195.239.0/24,US,US-AZ,Scottsdale
+161.195.129.0/24,US,US-IL,DownersGrove
