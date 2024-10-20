@@ -1,5 +1,6 @@
 # prefix,country_code,region_code,city
 161.195.135.0/24,KR,KR-11,Seoul
+161.195.137.0/24,GB,GB-LDS,Leeds
 161.195.138.0/24,GB,GB-LDS,Leeds
 161.195.139.0/24,ES,ES-B,Barcelona
 161.195.140.0/24,MX,,
